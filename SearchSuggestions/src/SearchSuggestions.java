@@ -17,7 +17,7 @@ class Result {
     // Write your code here
    
     String s="";
-    /*starting point
+    /*starting point*/
     int j=2;
     List<List<String>> totalfinding= new ArrayList<>();
     List<String> finding=null;
