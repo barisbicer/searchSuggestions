@@ -39,9 +39,9 @@ class Result {
                    
                    
               }
-             j++;
+             
         }
-           
+       j++;    
        totalfinding.add(finding);
        }
     }
