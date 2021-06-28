@@ -1,2 +1,2 @@
 # searchSuggestions
-Appplication is for seacrh pattern for search box
+Appplication is for search pattern for search box
