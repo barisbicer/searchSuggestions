@@ -15,7 +15,7 @@ class Result {
     // Write your code here
    
     String s="";
-   
+    int j=2;
     List<List<String>> totalfinding= new ArrayList<>();
     List<String> finding=null;
     for(int i = 0; i < customerQuery.length(); i++)
@@ -29,7 +29,7 @@ class Result {
      
         finding= new ArrayList<>();
         for (String search : repository){
-           int j=2;
+           
             if(search.substring(0,j).equals(s))
               {    
                     finding.add(search);
