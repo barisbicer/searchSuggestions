@@ -31,7 +31,7 @@ class Result {
      
         finding= new ArrayList<>();
         for (String search : repository){
-         
+
             if(search.substring(0,j).equals(s))
               {    
                     finding.add(search);
