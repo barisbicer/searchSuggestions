@@ -15,7 +15,7 @@ class Result {
 
     public static List<List<String>> searchSuggestions(List<String> repository, String customerQuery) {
     // Write your code here
-   
+     /****starting point for query*****/
     String s="";
     /****starting point*****/
     int j=2;
