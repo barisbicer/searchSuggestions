@@ -57,7 +57,7 @@ public static void main(String[] args) {
 
 List<String> test=Arrays.asList("istanbul","ankara","izmir","antalya","mersin","adana","izmit");
 String customerQuery="izmir";
-    System.out.println(Result.searchSuggestions(test,customerQuery));
+System.out.println(Result.searchSuggestions(test,customerQuery));
 
 }
 
